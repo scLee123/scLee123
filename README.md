@@ -1,6 +1,4 @@
 # Eric Lee - Data Analysis Projects 
----
-
 ## E-commerce Data Analysis
 ## helllll
 <!--
