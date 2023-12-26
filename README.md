@@ -1,6 +1,7 @@
-## Eric Lee - Data Analysis Projects
+# Eric Lee - Data Analysis Projects
 ---
 
+## E-commerce Data Analysis
 <!--
 **scLee123/scLee123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
